@@ -1,0 +1,6 @@
+ocean=15
+Jules=1
+by=38
+so=64
+when=7
+Sea=1

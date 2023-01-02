@@ -1,0 +1,47 @@
+02:21:03.232 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello,to start please login or register 
+1. Registration
+2. Login
+3. Exit
+02:21:05.274 [main] INFO  com.solvd.bank.BankService.ClientAccounts - Hello, would you like to create an account?
+02:21:10.369 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello 
+1. Withdraw money from account 
+2. Put money to an account 
+3. Send money to a different account 
+4. Logout
+02:21:13.577 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello 
+1. Withdraw money from account 
+2. Put money to an account 
+3. Send money to a different account 
+4. Logout
+02:21:17.569 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello 
+1. Withdraw money from account 
+2. Put money to an account 
+3. Send money to a different account 
+4. Logout
+02:21:20.121 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello 
+1. Withdraw money from account 
+2. Put money to an account 
+3. Send money to a different account 
+4. Logout
+02:21:22.284 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello 
+1. Withdraw money from account 
+2. Put money to an account 
+3. Send money to a different account 
+4. Logout
+02:21:23.759 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello 
+1. Withdraw money from account 
+2. Put money to an account 
+3. Send money to a different account 
+4. Logout
+02:21:25.500 [main] INFO  com.solvd.bank.BankService.Start - 
+ Hello,to start please login or register 
+1. Registration
+2. Login
+3. Exit
